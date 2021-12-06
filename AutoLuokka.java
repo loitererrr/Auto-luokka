@@ -19,7 +19,7 @@ public class AutoLuokka {
 		auto2.malli = "CRV";
 		auto2.bensanMaara = 12;
 		
-
+		auto2.naytaTiedot();
 		
 	}
 
